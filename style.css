@@ -1,5 +1,5 @@
-tr:nth-child(even) {
-    background-color: #D6EEEE;
+body{
+    font-size: small;
 }
 
 table, th, td {
@@ -9,9 +9,13 @@ table, th, td {
 
 td, th {
     text-align : center;
-    padding: 8px
+    padding: 6px
 }
 
-.warna{
+.ungu{
     background-color: #CBC3E3;
+}
+
+.biru{
+    background-color: #6AC5FE;
 }
